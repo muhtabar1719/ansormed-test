@@ -1,0 +1,47 @@
+.header{
+    background-color: #fff;
+  }
+
+  .header-logo{
+   width: 230px;
+   height: 60px;
+  }
+
+  .sitenav-link{
+    letter-spacing: 1px;
+    text-decoration: none;
+    font-weight: normal;
+    color: #000;
+  }
+
+  .main-link{
+    letter-spacing: 1px;
+    text-decoration: none;
+    font-weight: normal;
+    background-color: #ff7500;
+    color:#fff;
+  }
+
+  .main_line{
+    background-color: #ff7500;
+    width: 80px;
+    height: 3px;
+  }
+
+  .section_color{
+    color:#fff;
+    background-color:#252420;
+  }
+
+  .site_footer-back{
+    background-color:#f8f8f8;
+  }
+
+  .sitefooter_link{
+
+    text-decoration: none;
+    color: #000;
+    letter-spacing: 1.5px;
+    font-weight: 100;
+
+  }
